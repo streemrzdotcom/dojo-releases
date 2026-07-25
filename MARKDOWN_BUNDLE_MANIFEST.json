@@ -1,0 +1,26 @@
+{
+  "README.md": {
+    "sha256": "9202a1b7bf43e55acdd617094832830374496f9001760bd20d082445a1601551",
+    "size_bytes": 4590
+  },
+  "SECURITY.md": {
+    "sha256": "fea9de0863b7d60b083509e77c1767b9170978ea163ecf5947616ccad9f9b29b",
+    "size_bytes": 4435
+  },
+  "SUPPORT.md": {
+    "sha256": "76f787ab9bdf84c73b94a38e90085c880f92d9ecd1755733b9d990aa16dd80a6",
+    "size_bytes": 1943
+  },
+  "RELEASE_TEMPLATE.md": {
+    "sha256": "38f350bc9c8a0e0f4afc43bbcf4b10dbadaa648ea2a4bad813204c76b0e885e7",
+    "size_bytes": 1561
+  },
+  "RELEASE_NOTES_1.0.0-alpha.2.md": {
+    "sha256": "4eafb23ef96711299716e17c145eccc77d5526ecbfb51b37fd137f19248d918b",
+    "size_bytes": 2367
+  },
+  "RELEASE_CHECKLIST.md": {
+    "sha256": "c76d9d9337f2fbd593c8c80e3869325f29383a5cfef1630b42eec9b7bfa2ea53",
+    "size_bytes": 3125
+  }
+}
